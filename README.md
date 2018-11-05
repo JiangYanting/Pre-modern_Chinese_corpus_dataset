@@ -1,9 +1,11 @@
 # Pre-modern_Chinese_language_corpus
 
-1.#Introduction#"\n"
+1.#Introduction#
+
   This is a pre-modern Chinese ( From Song dynasty in 10th century AD to Republic of China in the early 20th Century ) language corpus.These language resources are all txt format,arranged by Dynasty（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of China）.The relevant authors' information and types of literature also have been labelled. 
 
-2.#Types of language resources#"\n"
+2.#Types of language resources#
+
   The types of literature involve: 
   (1)poetry;
   (2)Ci（词）;
@@ -16,7 +18,8 @@
   (9)agriculture literature;
   (10)history literature.
 
-3.#language classification#"\n"
+3.#language classification#
+
   All the language resources are separated into 6 parts：
   (1)Song dynasty,
   (2)Yuan dynasty,
@@ -28,4 +31,8 @@
 
 4.All the documents are txt format,encoded by utf-8."\n"
 
-  If you have any question,please contact the author: Jiang Yanting（bnu.jyt@gmail.com）.Thanks! ^_^
+5.Where to download these language resources?
+
+  https://pan.baidu.com/s/158ho0ZePZ523Onq4PpUh5A#list/path=%2F
+ 
+ If you have any question,please contact the author: Jiang Yanting（bnu.jyt@gmail.com）.Thanks! ^_^
