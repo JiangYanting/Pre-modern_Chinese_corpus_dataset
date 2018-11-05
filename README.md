@@ -7,32 +7,47 @@
 2.#Types of language resources#
 
   The types of literature involve: 
+  
   (1)poetry;
+  
   (2)Ci（词）;
+  
   (3)drama;
+  
   (4)novel;
+  
   (5)military literature;
+  
   (6)chinese medical literature;
+  
   (7)arts literature(eg:musical instrument,chess,calligraphy,cooking,tea,Chinese kung fu); 
+  
   (8)math/algorithm/astronomy;
+  
   (9)agriculture literature;
+  
   (10)history literature.
+  
 
 3.#language classification#
 
   All the language resources are separated into 6 parts：
   (1)Song dynasty,
+  
   (2)Yuan dynasty,
+  
   (3)Ming dynasty,
+  
   (4)Early Qing dynasty(before 1840s AD),
+  
   (5)Late Qing dynasty(1840s-1911 AD),
+  
   (6)Republic of China(1912-1948).
   
 
 4.All the documents are txt format,encoded by utf-8."\n"
 
 5.Where to download these language resources?
-
-  https://pan.baidu.com/s/158ho0ZePZ523Onq4PpUh5A#list/path=%2F
+https://pan.baidu.com/s/1Qp9lCmvUu42LHBC0y5s4Cw#list/path=%2F%E8%BF%91%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%AD%E6%96%99
  
- If you have any question,please contact the author: Jiang Yanting（bnu.jyt@gmail.com）.Thanks! ^_^
+ If you have any question,please contact the editor: Jiang Yanting（bnu.jyt@gmail.com）.Thanks! ^_^
