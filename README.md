@@ -2,7 +2,11 @@
 
 1.#Introduction#
 
-  This is a pre-modern Chinese ( From Song dynasty in 10th century AD to Republic of China in the early 20th Century ) language corpus.These language resources are all txt format,arranged by Dynasty（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of China）.The relevant authors' information and types of literature also have been labelled. 
+  This is a big pre-modern Chinese ( From Song dynasty in 10th century AD to Republic of China in the early 20th Century ) language corpus.The total file size is more than 860.6MB.These language resources are all txt format(encoded by utf-8),arranged by Dynasty（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of China）.
+  
+  The relevant authors' information and types of literature also have been labelled. 
+  
+  These language resources can be used for linguistic/literature research,Chinese teaching,data mining,text automatic classification and so on. 
 
 2.#Types of language resources#
 
