@@ -1,6 +1,6 @@
 # Pre-modern_Chinese_language_corpus
 
-1.【Introduction 简介】
+##1.【Introduction 简介】
 
 This is a 260-million-character pre-modern Chinese language corpus.The total file size is more than 900 MB,including 912 text 
 
@@ -16,7 +16,7 @@ The relevant authors' information and types of literature also have been labelle
 
 
 
-2.【Application area of this corpus 语料用途】
+##2.【Application area of this corpus 语料用途】
  
 These language resources can be used for literature/history/linguistic/arts/chinese medical/the history of science 
 
@@ -26,7 +26,7 @@ research,Chinese teaching,data mining,text automatic classification and so on.
 
 
 
-3.【Types of language resources  语言资源类型】
+##3.【Types of language resources  语言资源类型】
 
 The types of literature involve文献类型包括 ：
 
@@ -53,7 +53,7 @@ The types of literature involve文献类型包括 ：
 
 
 
-4.【Language classification 语料编排分类】
+##4.【Language classification 语料编排分类】
 
 All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yuan dynasty, (3)Ming dynasty, (4)Early Qing 
 
@@ -63,23 +63,23 @@ dynasty(before 1840s AD), (5)Late Qing dynasty(1840s-1911 AD), (6)Republic of Ch
 
 
 
-5.【The number of character of each category 文档字数统计(不含标点)】
+##5.【The number of character of each category 文档字数统计(不含标点)】
 
-朝代\类别字数	小说话本       历史地理       词集       诗歌       医学       农学       剧曲       数理科学     技艺    军事     总数
-    
-     宋	    346549	     12478192	    1492967  	11445545	5419232	    18930	     暂缺	      285620	    33288	  445545	31965868
+|朝代\类别字数|小说话本|历史地理|词集|诗歌|医学|农学|剧曲|数理科学|技艺|军事|总数|
+   |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+|宋|346549|12478192|1492967|11445545	|5419232|  18930	|暂缺|   285620	  |  33288	 | 445545	|31965868|
      
-     元	    1419408	     5197060	    585615	   2130745	1869542	   189182	   2423584	   116977	      63413  	暂缺	  13995526
+|元|1419408|5197060| 585615	|2130745|	1869542 | 189182	 |  2423584| 116977	|63413  |	暂缺	 | 13995526|
      
-     明	    20775423	   23763670	    55600    	  872429	15728504  	552105  	2639445  	1454890	    285348	 803206	 66930620
+|明|20775423|23763670| 55600| 872429|	15728504 | 	552105  |	2639445 |1454890|  285348	| 803206	| 66930620|
     
-    清初	   35671853	    36236684	   76577	     410333	  10659597	  2406	   1043627	  4048413	    501007	 暂缺	   88650497
+|清初|35671853|36236684|76577|410333|10659597|2406|1043627|4048413|501007|暂缺|88650497|
    
-    清末	   10973420	    17538533	   65384	     26660	   511873	    暂缺	   1427537	   暂缺	         暂缺	  19670	  30563077
+|清末|10973420	|17538533	|65384	|26660	|511873	|暂缺	|1427537	|暂缺|	暂缺	|19670	|30563077|
+
+|民国|17006500	| 12476191	|11822|126442|319042|暂缺|386424|暂缺| 暂缺|136671|30463092|
     
-    民国	   17006500	    12476191	   11822	     126442	   319042 	  暂缺	    386424	   暂缺	        暂缺	  136671	30463092
-    
-    总计	   86193153	    107690330  	2287965	    15012154	34507790	 762623	   7920617	  5905900	   883056	 1405092	262568680
+|总计|86193153|107690330|2287965| 15012154|34507790 | 762623|7920617|5905900| 883056|1405092|262568680|
 
 
 
