@@ -4,9 +4,9 @@
 
 This is a 260-million-character pre-modern Chinese language corpus.The total file size is more than 900 MB,including 912 text 
 
-files.These language resources are by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of 
+files.These language resources are encoded by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic 
 
-China）.
+of China）.
 
 The relevant authors' information and types of literature also have been labelled.
 
@@ -77,7 +77,7 @@ dynasty(before 1840s AD), (5)Late Qing dynasty(1840s-1911 AD), (6)Republic of Ch
 
 
 
-6.【Where to download these language resources? 语料下载地址】
+##6.【Where to download these language resources? 语料下载地址】
 
 https://pan.baidu.com/s/1OXtRVQS4QPyDm7hmMRJa_A
 
