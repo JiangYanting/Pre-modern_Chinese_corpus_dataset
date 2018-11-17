@@ -4,9 +4,9 @@
 
 This is a 260-million-character pre-modern Chinese language corpus.The total file size is more than 900 MB,including 912 text 
 
-files.These language resources are by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,
+files.These language resources are by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of 
 
-Late-Qing and Republic of China）.
+China）.
 
 The relevant authors' information and types of literature also have been labelled.
 
@@ -20,9 +20,7 @@ The relevant authors' information and types of literature also have been labelle
  
 These language resources can be used for literature/history/linguistic/arts/chinese medical/the history of science 
 
-research,Chinese teaching,data mining,
-
-text automatic classification and so on.
+research,Chinese teaching,data mining,text automatic classification and so on.
  
   这些语料可服务于文学/历史学/语言学/艺术学/中医/科学技术史研究、汉语教学、数据挖掘和文本自动分类等领域。
 
