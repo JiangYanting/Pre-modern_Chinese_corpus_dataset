@@ -62,6 +62,7 @@ dynasty(before 1840s AD), (5)Late Qing dynasty(1840s-1911 AD), (6)Republic of Ch
 所有语料文本被分为6个部分：宋朝、元朝、明朝、清初（1644-1840）、清末（1840-1911）、民国（1912-1948）。
 
 
+
 5.【The number of character of each category 文档字数统计(不含标点)】
 
 朝代\类别字数	小说话本       历史地理       词集       诗歌       医学       农学       剧曲       数理科学     技艺    军事     总数
@@ -79,6 +80,7 @@ dynasty(before 1840s AD), (5)Late Qing dynasty(1840s-1911 AD), (6)Republic of Ch
     民国	   17006500	    12476191	   11822	     126442	   319042 	  暂缺	    386424	   暂缺	        暂缺	  136671	30463092
     
     总计	   86193153	    107690330  	2287965	    15012154	34507790	 762623	   7920617	  5905900	   883056	 1405092	262568680
+
 
 
 6.【Where to download these language resources? 语料下载地址】
