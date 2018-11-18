@@ -4,9 +4,7 @@
 
 This is a 260-million-character pre-modern Chinese language corpus.The total file size is more than 900 MB,including 912 text 
 
-files.These language resources are encoded by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic 
-
-of China）.
+files.These language resources are encoded by utf-8,arranged in dynasty order（Song,Yuan,Ming,Early-Qing,Late-Qing and Republic of China）.
 
 The relevant authors' information and types of literature also have been labelled.
 
