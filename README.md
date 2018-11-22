@@ -70,7 +70,7 @@ These language resources can be used for literature/history/linguistic/arts/chin
 
 text automatic classification and so on.
  
-  这些语料可服务于文学/历史学/语言学/艺术学/中医/科学技术史研究、汉语教学、数据挖掘和文本自动分类等领域。
+  这些语料可服务于文学/文献学/历史学/语言学/艺术学/中医学/科学技术史研究、汉语教学、数据挖掘和文本自动分类等领域。
 
 
 
