@@ -140,4 +140,4 @@ If you have any question,or want to help to enlarge this free,open corpus,please
 
 editor: Jiang Yanting（bnu.jyt@gmail.com / 201511080173@mail.bnu.edu.cn）.Thanks!
 
-若有任何问题，或欲帮助扩充这一免费公开的语料库，请联系编辑:蒋彦廷（bnu.jyt@gmail.com 或 201511080173@mail.bnu.edu.cn ）.谢谢! 
+若有任何问题，或欲帮助扩充这一免费公开的语料库，请联系编辑:蒋彦廷（jiangyanting@mail.bnu.edu.cn或 201511080173@mail.bnu.edu.cn ）.谢谢! 
