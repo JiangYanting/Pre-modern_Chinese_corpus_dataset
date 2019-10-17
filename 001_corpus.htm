@@ -1,0 +1,256 @@
+<html>
+	<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  <title>
+  	近代汉语
+  </title>
+</head>
+<body>
+<style>
+body{
+     background-image: url("shuimo2.jpg");
+     background-size: cover;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+</style> 
+<!--style="float:left"/-->
+<!--background-color:rgba(212,0,0,0.95)-->
+<!--background-image: url("jingshixuetang.jpg");-->
+<img src="jindaihanyu1.jpg" width="800" height="100" style="float:left">
+&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
+<img src="timg.jpg" width="270" height="110">
+<br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Developed by ICIP BNU
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/JiangYanting/Pre-modern_Chinese_language_corpus"><b>语料库简介</b></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/JiangYanting/Pre-modern_Chinese_language_corpus"><b>资源下载</b></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="http://icip.bnu.edu.cn/index.php?action=page&pid=index"><b>联系我们</b></a>
+
+<br> 
+<hr>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;
+
+
+<center><H1><strong style="background:transparent">语料查询</strong></H1></center>
+
+
+<!--用get.html文件处理表单信息-->
+<p>
+<form method="post" action="002sql_search.php">   <!-- action定义提交表单的地址 --> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 
+<b>【请选择朝代】</b>
+</p>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="宋">宋代 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="元">元代 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="明">明代 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="清初">清初 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="清末">清末 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="民国">民国 &emsp;&emsp;
+<input name="dynasty[]" type="checkbox" value="全部">全部 &emsp;&emsp;&emsp;
+
+
+<br>
+<br>
+
+
+<b>【请输入要检索的内容】</b><input type=text size=60 name=jiansuo>  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;
+<b>【请选择体裁】</b>
+<br>
+<br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<input name="wenti[]" type="checkbox" value="小说话本">小说话本
+<input name="wenti[]" type="checkbox" value="散文">散文
+<input name="wenti[]" type="checkbox" value="诗歌">诗歌
+<input name="wenti[]" type="checkbox" value="剧曲">剧曲
+<input name="wenti[]" type="checkbox" value="史书">史地
+<input name="wenti[]" type="checkbox" value="农业">农学
+<input name="wenti[]" type="checkbox" value="医书">医学
+<input name="wenti[]" type="checkbox" value="算法">数理
+<input name="wenti[]" type="checkbox" value="技艺">艺术
+<input name="wenti[]" type="checkbox" value="兵书">军事
+<input name="wenti[]" type="checkbox" value="suoyou">所有
+
+<br><br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+<input type=submit value=查询 style="font-size:16px;">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<input type=reset value=重置 style="font-size:16px;"> 
+</form>
+
+<hr>
+
+
+<br>
+<br>
+<h3 align="center">近代汉语语料库规模分类统计表</h3>
+<table border="1" height="500" width="900" cellspacing="0" align="center">
+	<tr align="center">
+    	<td>类别\朝代</td>
+        <td>宋代</td>
+        <td>元代</td>
+        <td>明代</td>
+        <td>清初</td>
+        <td>清末</td>
+        <td>民国</td>
+        <td>总字数</td>
+    </tr>
+    <tr align="center">
+    	<td>散文</td>
+        <td>5820561</td>
+        <td>1319350</td>
+        <td>6423460</td>
+        <td>882491</td>
+        <td>744835</td>
+        <td>3853165</td>
+        <td>19043862</td>
+    </tr>
+    <tr align="center">
+    	<td>小说话本</td>
+        <td>141317</td>
+        <td>1378162</td>
+        <td>17357555</td>
+        <td>33290363</td>
+        <td>9436857</td>
+        <td>9458024</td>
+        <td>71062278</td>
+    </tr>
+    <tr align="center">
+    	<td>历史地理</td>
+        <td>12835787</td>
+        <td>5375872</td>
+        <td>27279817</td>
+        <td>39011391</td>
+        <td>19075096</td>
+        <td>20204169</td>
+        <td>123782132</td>
+    </tr>
+    <tr align="center">
+    	<td>诗词</td>
+        <td>1680594</td>
+        <td>2835050</td>
+        <td>929987</td>
+        <td>544178</td>
+        <td>124220</td>
+        <td>160852</td>
+        <td>6274881</td>
+    </tr>
+    <tr align="center">
+    	<td>医学</td>
+        <td>5419232</td>
+        <td>1869542</td>
+        <td>15728504</td>
+        <td>10659597</td>
+        <td>511873</td>
+        <td>319042</td>
+        <td>34507790</td>
+    </tr>
+    <tr align="center">
+    	<td>农学</td>
+        <td>18930</td>
+        <td>189182</td>
+        <td>552105</td>
+        <td>5692</td>
+        <td>0</td>
+        <td>0</td>
+        <td>765909</td>
+    </tr>
+  <tr align="center">
+    	<td>剧曲</td>
+        <td>0</td>
+        <td>2423584</td>
+        <td>2639445</td>
+        <td>1040341</td>
+        <td>1411883</td>
+        <td>427896</td>
+        <td>7943149</td>
+    </tr>
+  <tr align="center">
+    	<td>数理</td>
+        <td>285620</td>
+        <td>116977</td>
+        <td>1454890</td>
+        <td>3749246</td>
+        <td>0</td>
+        <td>0</td>
+        <td>5606733</td>
+    </tr>
+  <tr align="center">
+    	<td>艺术</td>
+        <td>33288</td>
+        <td>50850</td>
+        <td>187069</td>
+        <td>501007</td>
+        <td>0</td>
+        <td>0</td>
+        <td>772214</td>
+    </tr>
+  <tr align="center">
+    	<td>军事</td>
+        <td>445545</td>
+        <td>0</td>
+        <td>803206</td>
+        <td>0</td>
+        <td>19670</td>
+        <td>136671</td>
+        <td>1405092</td>
+    </tr>
+  <tr align="center">
+    	<td>总字数</td>
+        <td>26680874</td>
+        <td>15558569</td>
+        <td>73356038</td>
+        <td>89684306</td>
+        <td>31324434</td>
+        <td>34559819</td>
+        <td>271164040</td>
+    </tr>
+</table>
+
+<br>
+<br>
+</body>
+</html>
+
+
