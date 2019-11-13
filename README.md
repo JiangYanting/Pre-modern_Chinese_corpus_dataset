@@ -131,7 +131,7 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 
 ##6.【Where to download these language resources? 语料下载地址】
-https://pan.baidu.com/s/1OJfaJcj-bDiiCDvuHfleng#list/path=%2F%E8%BF%91%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%AD%E6%96%99%20pre-modern%20Chinese%20corpus
+https://pan.baidu.com/s/1OJfaJcj-bDiiCDvuHfleng#list/path=%2F&parentPath=%2F
 
 
 
