@@ -1,6 +1,6 @@
 # Pre-modern_Chinese_language_corpus
 
-2020-2-10 updata：
+2020-2-10 update：
 
 2020年2月10日 更新：
 
