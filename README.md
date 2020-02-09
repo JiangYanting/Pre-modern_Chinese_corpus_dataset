@@ -1,5 +1,14 @@
 # Pre-modern_Chinese_language_corpus
 
+2020-2-10 updata：
+
+2020年2月10日 更新：
+
+修复了下载链接失效的问题。 having fixed the failure of download link. 
+
+
+
+
 2018-11-21 update：
 
 2018年11月21日 更新： 
