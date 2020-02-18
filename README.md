@@ -1,8 +1,8 @@
 # Pre-modern_Chinese_language_corpus
 
-2020-2-10 update：
+2020-2-18 update：
 
-2020年2月10日 更新：
+2020年2月18日 更新：
 
 修复了下载链接失效的问题。 having fixed the failure of download link. 
 
@@ -141,9 +141,9 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 ##6.【Where to download these language resources? 语料下载地址】
 
-链接:https://pan.baidu.com/s/1aux-2vc_mEjM3-02_hfJMg 
+链接Link：https://pan.baidu.com/s/1fjYYl5jVkK6RlW8jbLDL1Q 
 
-提取码:4b3b
+提取码extraction code：q835 
 
 
 
