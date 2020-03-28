@@ -68,7 +68,7 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-##1.【Introduction 简介】
+## 1.【Introduction 简介】
 
 This is a 280-million-character pre-modern Chinese language corpus.
 
@@ -84,7 +84,7 @@ The relevant authors' information and types of literature also have been labelle
 
 
 
-##2.【Application area of this corpus 语料用途】
+## 2.【Application area of this corpus 语料用途】
  
 These language resources can be used for literature/history/linguistic/arts/chinese medical/the history of science research,Chinese teaching,data mining,
 
@@ -94,7 +94,7 @@ text automatic classification and so on.
 
 
 
-##3.【Types of language resources  语言资源类型】
+## 3.【Types of language resources  语言资源类型】
 
 The types of literature involve文献类型包括 ：
 
@@ -123,7 +123,7 @@ The types of literature involve文献类型包括 ：
 
 
 
-##4.【Language classification 语料编排分类】
+## 4.【Language classification 语料编排分类】
 
 All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yuan dynasty, (3)Ming dynasty, (4)Early Qing dynasty(before 1840s AD), 
 
@@ -133,7 +133,7 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 
 
-##5.【The number of character of each category 文档字数统计(不含标点)】
+## 5.【The number of character of each category 文档字数统计(不含标点)】
 
 |类别\朝代|散文|小说话本|历史地理|诗词|医学|农学|剧曲|数理科学|技艺|军事|总字数|   
 |-|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|  
@@ -150,7 +150,7 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 
 
-##6.【Where to download these language resources? 语料下载地址】
+## 6.【Where to download these language resources? 语料下载地址】
 
 链接Link：https://pan.baidu.com/s/1fjYYl5jVkK6RlW8jbLDL1Q 
 
