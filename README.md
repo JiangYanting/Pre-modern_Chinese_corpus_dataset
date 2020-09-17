@@ -152,9 +152,7 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 ## 6.【Where to download these language resources? 语料下载地址】
 
-链接Link：https://pan.baidu.com/s/1fjYYl5jVkK6RlW8jbLDL1Q 
-
-提取码extraction code：q835 
+请邮件联系jiangyanting@mail.bnu.edu.cn，或加qq号:540980735，或加微信号jyt629000获取。
 
 
 
