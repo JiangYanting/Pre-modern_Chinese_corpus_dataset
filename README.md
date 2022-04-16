@@ -152,13 +152,13 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 ## 6.【Where to download these language resources? 语料下载地址】
 
-请邮件联系jiangyanting@mail.bnu.edu.cn，或加qq号:540980735，或加微信号jyt629000获取。
+请邮件联系3225357264@qq.com，或加qq号:3225357264，或加微信号jyt629000获取。
 
 
 
 
 If you have any question,or want to help to enlarge this free,open corpus,please contact the 
 
-editor: Jiang Yanting（jiangyanting@mail.bnu.edu.cn / 540980735@qq.com）.Thanks!
+editor: Jiang Yanting（3225357264@qq.com）.Thanks!
 
-若有任何问题，或欲帮助扩充这一免费公开的语料库，请联系编辑:蒋彦廷（jiangyanting@mail.bnu.edu.cn或 540980735@qq.com ）.谢谢! 
+若有任何问题，或欲帮助扩充这一免费公开的语料库，请联系编辑3225357264@qq.com.谢谢! 
