@@ -152,7 +152,7 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 ## 6.【Where to download these language resources? 语料下载地址】
 
-请邮件联系3225357264@qq.com，或加qq号:3225357264，或加微信号jyt629000获取。
+请邮件联系540980735@qq.com，或加qq号:540980735，或加微信号jyt629000获取。
 
 
 
