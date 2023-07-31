@@ -159,6 +159,6 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 If you have any question,or want to help to enlarge this free,open corpus,please contact the 
 
-editor: Jiang Yanting（3225357264@qq.com）.Thanks!
+editor: Jiang Yanting（540980735@qq.com）.Thanks!
 
-若有任何问题，或欲帮助扩充这一免费公开的语料库，请联系编辑3225357264@qq.com.谢谢! 
+
