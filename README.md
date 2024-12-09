@@ -1,13 +1,5 @@
 # Pre-modern_Chinese_language_corpus
 
-若在科研论文、项目工程中使用了该近代汉语语料库/数据集，欢迎引用：
-
-> 蒋彦廷，潘雨婷，杨乐. 基于统计与词嵌入的近代汉语动量结构研究[J]. 西华大学学报（哲学社会科学版），2020，39（2）：23−32.
-
-
-> JIANG Yan-ting, PAN Yu-ting, YANG Le. A Research on Verbal Classifiers Collocation in Pre-modern Chinese Based on Statistics and Word Embedding[J]. Journal of Xihua University (Philosophy & Social Sciences), 2020, 39(2): 23-32. 
-
-
 --------------------------------------------------------------
 
 2020-2-18 update：
