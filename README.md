@@ -144,13 +144,8 @@ All the language resources are separated into 6 parts： (1)Song dynasty, (2)Yua
 
 ## 6.【Where to download these language resources? 语料下载地址】
 
-请邮件联系540980735@qq.com，或加qq号:540980735，或加微信号DHfusion获取。
+请垂询作者540980735@qq.com，或加qq号:540980735，或加微信号DHfusion获取。
 
 
-
-
-If you have any question,or want to help to enlarge this free,open corpus,please contact the 
-
-editor: Jiang Yanting（540980735@qq.com）.Thanks!
 
 
